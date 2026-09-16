@@ -1,6 +1,6 @@
 # Pixel Drift Demo
 
-Pixel Drift Demo is a small portrait racing game built with Cocos Creator and adapted for TikTok Mini Games.
+TikTok 小游戏 Demo。Pixel Drift Demo is a small portrait racing game built with Cocos Creator and adapted for TikTok Mini Games.
 
 ## Development environment
 
@@ -23,4 +23,3 @@ After GitHub Pages is enabled for this repository:
 
 - Terms of Service: <https://dj-lee11.github.io/PixelDriftDemo/terms.html>
 - Privacy Policy: <https://dj-lee11.github.io/PixelDriftDemo/privacy.html>
-
